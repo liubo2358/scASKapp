@@ -5,7 +5,7 @@ The graphical user interface version of the scASK.  Availability: https://github
 # Introduction
 
 The scASK is a novel and robust ensemble framework that is especially suited for cell type classification based on scRNA-seq data. Furthermore, scASK is also a generic ensemble classifier for any supervised classification problem, such as classifying cancer types based on gene expression data or DNA methylation data. scASKapp is the GUI version of scASK with the App Designer technique, which can significantly simplify the analysis process and parameters selection, and has the ability of applying known labels from raw dataset to new dataset.  
-![framework](./Supplementary/framework.png)  
+![framework](./Supplementary/screenshot.png)  
 
 
 
